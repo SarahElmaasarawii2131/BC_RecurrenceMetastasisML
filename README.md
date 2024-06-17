@@ -18,7 +18,9 @@ A detailed documentation including how to use the tool, its arguments, and a det
 [CancerPredictor] is designed for healthcare decision-makers seeking advanced support in breast cancer management. Ideal for radiologists, oncologists, and medical professionals, our tool provides critical insights for predicting cancer recurrence. Whether you’re a doctor determining treatment plans or a specialist assessing patient prognosis, [CancerPredictor] equips you with the knowledge to make informed, life-saving decisions.
 
 ## How it Works
-not yet
+The flowchart below explains briefly how the system works:
+![WhatsApp Image 2024-06-16 at 7 42 12 PM](https://github.com/SarahElmaasarawii2131/BC_RecurrenceMetastasisML/assets/127595897/44c20142-d480-4e1f-85b5-80785192ad59)
+
 ### Input
 
 stay tuned
