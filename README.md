@@ -19,7 +19,8 @@ A detailed documentation including how to use the tool, its arguments, and a det
 
 ## How it Works
 The flowchart below explains briefly how the system works:
-![WhatsApp Image 2024-06-16 at 7 42 12 PM](https://github.com/SarahElmaasarawii2131/BC_RecurrenceMetastasisML/assets/127595897/44c20142-d480-4e1f-85b5-80785192ad59)
+<img width="389" alt="flowchartttt" src="https://github.com/SarahElmaasarawii2131/BC_RecurrenceMetastasisML/assets/127595897/be28f4a2-d700-45a9-a0e0-4c0842737456">
+
 
 ### Input
 
