@@ -25,10 +25,17 @@ The flowchart below explains briefly how the system works:
 
 ### Input
 
-stay tuned
+Patient's features
 ### Output
 
-stay tuned
+Depends on the approach used
+| Approach | Output                                      |
+|----------|---------------------------------------------|
+| First    | Recurrence or not recurrence                |
+| Second   | Recurrence type (local or distant)          |
+| Third    | Metastasis Location (Liver, Lung, Bone, or Brain) |
+
+
 ### Arguments
 
 stay tuned
