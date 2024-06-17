@@ -19,7 +19,7 @@ A detailed documentation including how to use the tool, its arguments, and a det
 
 ## How it Works
 The flowchart below explains briefly how the system works:
-<img width="389" alt="flowchartttt" src="https://github.com/SarahElmaasarawii2131/BC_RecurrenceMetastasisML/assets/127595897/be28f4a2-d700-45a9-a0e0-4c0842737456">
+<img width="389" alt="flowchartttt" src="https://github.com/SarahElmaasarawii2131/BC_RecurrenceMetastasisML/assets/127595897/77d31672-a309-43eb-acf3-dc0fa4796d72">
 
 
 ### Input
