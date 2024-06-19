@@ -45,7 +45,8 @@ These instructions will guide you through the process of installing and running 
 
 ### Prerequisites
 
-Before you begin, you will need to have [Anaconda](https://www.anaconda.com/products/individual) installed on your system.
+Before you begin, you will need to have Anaconda installed on your system.
+
 
 ### Installation
 
